@@ -77,7 +77,6 @@ FzT = FSAF(3) + FSCF(3) + FSCE(3) + FSBE(3) + FSBD(3) + FSAD(3)
 MTRx = MAF(1) + MCF(1) + MCE(1) + MBE(1) + MBD(1) + MAD(1)
 
 %calculation%
-%Test%
 
 
 F = [FxT; FyT; FzT; MTRx];
