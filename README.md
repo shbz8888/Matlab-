@@ -1,5 +1,2 @@
-# Matlab- This function calls one of the three functions below and attempts to solve it using numerical analysis #
-fhandle = @ftn_fsolve_example_TwithRz;
-X0 = [0  0  0  0]; %Initial guess%
-X = fsolve(fhandle, X0);
-disp(X)
+# Matlab- The FSolver function calls one of the three other functions before attempting to solve them via numerical analysis.
+The other functions model how a 6 axis passive compliance device would behave when subjected to forces (N) in X,Y and Z as well as one moment about either X,Y or Z. 
