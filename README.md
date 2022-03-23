@@ -9,4 +9,4 @@ The other functions model how a 6 axis passive compliance device would behave wh
 
 Files can be run using MatLab software.
 
-Please have a look
+
